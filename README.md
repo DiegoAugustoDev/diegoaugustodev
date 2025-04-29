@@ -1,9 +1,6 @@
 
 ### Olá! Eu sou o Diego Augusto. 👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/channel/UC3g0NcA7MyJXYrMdNWlJrAA)
-
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoaugustodev&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaugustodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
